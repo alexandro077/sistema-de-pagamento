@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>Recebimento de Dinheiro</h1>
+  <h1>BancoTech</h1>
   <form action="index.php" method="post">
     <label for="nome">Nome:</label>
     <input type="text" id="nome" name="nome" value="ALEXANDRO MESSIAS DE OLIVEIRA FILHO" required>
