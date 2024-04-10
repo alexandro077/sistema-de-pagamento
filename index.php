@@ -21,9 +21,8 @@
     <label for="metodoPagamento">Método de Pagamento:</label>
     <select id="metodoPagamento" name="metodoPagamento" required>
       <option value="">Selecione</option>
-      <option value="pagseguro">PagSeguro</option>
-      <option value="mercadopago">Mercado Pago</option>
-      <option value="paypal">PayPal</option>
+         <option value="mercadopago">Mercado Pago</option>
+
     </select>
     <br>
     <button type="submit">Enviar</button>
